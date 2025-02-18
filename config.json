@@ -1,0 +1,12 @@
+{
+  "gacha": true,
+  "achievements": true,
+  "mix": true,
+  "mission": true,
+  "quest": true,
+  "claim_pass": true,
+  "pvp": true,
+  "proxy": false,
+  "delay_loop": 3000,
+  "delay_account_switch": 10
+}
