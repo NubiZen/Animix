@@ -1232,7 +1232,7 @@ if __name__ == "__main__":
     if config.get("proxy", False):
         proxies = ani.load_proxies()
 
-    ani.log("[LIVEXORDS] === Welcome to AniMix Automation === [LIVEXORDS]", Fore.YELLOW)
+    ani.log("[NubiZen] === Welcome to AniMix Automation === [NubiZen]", Fore.YELLOW)
     ani.log(f"Loaded {max_index} accounts from query list.", Fore.YELLOW)
 
     while True:
