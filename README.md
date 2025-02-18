@@ -45,17 +45,17 @@ The Animix Bot is designed to automate various tasks in **Animix**, including:
 1. Clone the repository:  
     ```sh
     git clone https://github.com/NubiZen/Animix.git
-    cd AnimixBot
+    cd Animix
     ```  
 
 2. Install the required dependencies:  
     ```sh
-    npm install
+    pip install requirements.txt
     ```  
 
 3. Input your user data in `users.txt` (one user per line):  
     ```sh
-    nano users.txt
+    nano query.txt
     ```  
 
 4. (Optional) Configure proxy support:  
@@ -66,7 +66,7 @@ The Animix Bot is designed to automate various tasks in **Animix**, including:
 
 5. Run the script:  
     ```sh
-    npm run start
+    python main.py
     ```  
 
 ## License  
